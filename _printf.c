@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #include "holberton.h"
+=======
+#include "main.h"
+>>>>>>> 0fad84e0d0a5585d50059a9f309a611098c8d24b
 
 /**
  * _printf - prints formatted data to stdout
